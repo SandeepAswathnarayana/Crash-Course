@@ -15,4 +15,6 @@ Google's fast-paced, practical introduction to machine learning
 
 [cognitiveclass.ai](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0120ENv2+2018/courseware/7becb1f1d0ae41e9b9b021b128d8adc7/5d26735d8bc64b2c9d1612b927761fde/)  
 
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2016/syllabus.html)  
+
 
