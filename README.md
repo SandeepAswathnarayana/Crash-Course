@@ -1,6 +1,5 @@
-# ML-Crash-Course-with-TensorFlow-APIs  
-Google's fast-paced, practical introduction to machine learning  
-
+# ML and DL Courses    
+ 
 [AWS Training and Certification](https://aws.amazon.com/training/learning-paths/machine-learning/)  
 
 [ML Crash Course With TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)  
