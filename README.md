@@ -17,3 +17,13 @@
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2016/syllabus.html)  
 
 
+# LinkedIn  
+
+[Reskilling the Workforce on the Road to Economic Recovery](https://www.linkedin.com/pulse/reskilling-workforce-road-economic-recovery-jeff-weiner/?trackingId=8a%2BkAMnXRh%2BtigYLm0jR7A%3D%3D)  
+
+[Learn Skills for In-Demand Jobs](https://opportunity.linkedin.com/skills-for-in-demand-jobs)  
+
+[GitHub Learning Lab](https://lab.github.com/)  
+
+
+
