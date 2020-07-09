@@ -1,6 +1,10 @@
-# ML and DL Courses    
+# ML and DL Courses  
  
 [AWS Training and Certification](https://aws.amazon.com/training/learning-paths/machine-learning/)  
+
+[Creating an Object Detection Application Using TensorFlow](https://google.qwiklabs.com/focuses/1823?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5754362)  
+
+[Google Cloud Training with Qwiklabs](https://google.qwiklabs.com/)  
 
 [ML Crash Course With TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)  
 
