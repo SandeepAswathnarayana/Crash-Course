@@ -12,6 +12,8 @@
 
 [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/courses)  
 
+[Google Digital Unlocked](https://learndigital.withgoogle.com/digitalunlocked)  
+
 [Microsoft Learning](https://github.com/MicrosoftLearning?language=jupyter+notebook)  
 
 [IBM Skills Gateway](https://www.ibm.com/services/learning/journey_description/?journeyId=dml001&tag=o-itns-01-10)  
