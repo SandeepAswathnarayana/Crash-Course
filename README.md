@@ -14,6 +14,8 @@
 
 [Google Digital Unlocked](https://learndigital.withgoogle.com/digitalunlocked)  
 
+[Google Skillshop](https://skillshop.withgoogle.com/)  
+
 [Microsoft Learning](https://github.com/MicrosoftLearning?language=jupyter+notebook)  
 
 [IBM Skills Gateway](https://www.ibm.com/services/learning/journey_description/?journeyId=dml001&tag=o-itns-01-10)  
