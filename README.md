@@ -26,6 +26,11 @@
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2016/syllabus.html)  
 
+# Google Career Certificates (Grow with Google)  
+
+- [Google Project Management](https://grow.google/jobprojectmanage/?utm_source=email&utm_medium=email&utm_campaign=newcertsfollowup&utm_content=primerprojectmanger)  
+- [Google Data Analyst](https://grow.google/jobdataanalyst/?utm_source=email&utm_medium=email&utm_campaign=newcertsfollowup&utm_content=primeranalyst)  
+- [Google UX Design](https://grow.google/jobuxdesign/?utm_source=email&utm_medium=email&utm_campaign=newcertsfollowup&utm_content=primeruxdesign)  
 
 # LinkedIn  
 
