@@ -32,6 +32,7 @@
 
 # AWS  
 - [AWS Educate](https://aws.amazon.com/education/awseducate/?&trk=WWPS_GLBL_20_LISC_AWSEducate_Ad1&trkCampaign=wwps_educate&sc_campaign=awseducate&sc_channel=PSM&sc_publisher=LI&sc_country=NAMER&sc_geo=NAMER&sc_medium=WWPS|AWS%20Educate|2726821|Burbank|H2%202020&sc_category=On%20Demand&sc_segment=Virtual%20Workshop|EN|SU|All|Field%20of%20Study_Skills&sc_content=image|Educate-BTS-Campaign-new_7.png|1200x628|ad1&sc_detail=PROS|Persona|Students&linkId=97688061)  
+- [AWS Computer Vision: Getting Started with GluonCV](https://www.coursera.org/learn/aws-computer-vision-gluoncv?recoOrder=1&utm_medium=email&utm_source=recommendations&utm_campaign=vz2KUGmfEeuiLbV1NbTVAw#syllabus)  
 
 # Intel  
 - [Intermediate Intel® Distribution of OpenVINO™ toolkit for Deep Learning Applications](https://www.coursera.org/learn/int-openvino?recoOrder=15&utm_medium=email&utm_source=recommendations&utm_campaign=vz2KUGmfEeuiLbV1NbTVAw#syllabus)  
