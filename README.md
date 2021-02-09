@@ -25,6 +25,8 @@
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2016/syllabus.html)  
 
+[Full Stack Deep Learning - Spring 2021](https://fullstackdeeplearning.com/spring2021/)  
+
 # Google Career Certificates (Grow with Google)  
 - [Google Project Management](https://grow.google/jobprojectmanage/?utm_source=email&utm_medium=email&utm_campaign=newcertsfollowup&utm_content=primerprojectmanger)  
 - [Google Data Analyst](https://grow.google/jobdataanalyst/?utm_source=email&utm_medium=email&utm_campaign=newcertsfollowup&utm_content=primeranalyst)  
